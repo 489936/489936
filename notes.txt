@@ -1,7 +1,7 @@
 today:
 some survey things everyday
 do the survey paper things
-  create a table for all the references so far
+  add all the references so far to table
   definition of anomaly detection
   how is this survey different from others?
 
