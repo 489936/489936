@@ -39,3 +39,4 @@ https://github.com/ntu-nail/CE7455
 Papers:
 https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf
 https://ceur-ws.org/Vol-3159/T6-8.pdf
+https://arxiv.org/abs/1801.07883
