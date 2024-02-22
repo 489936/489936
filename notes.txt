@@ -1,5 +1,4 @@
 today:
-propose topics for the group project
 do the survey paper things
   add all the references so far to table by thursday 
   ask for help from the three paper helpers
