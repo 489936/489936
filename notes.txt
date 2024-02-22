@@ -35,7 +35,41 @@ DL for NLP:
 [x] attend lecture
 [] do the hw 
 https://github.com/ntu-nail/CE7455
-Papers:
-https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf
-https://ceur-ws.org/Vol-3159/T6-8.pdf
-https://arxiv.org/abs/1801.07883
+
+assignment 1: 
+added pack_padded_sequence
+  it improved the train-val loss and accuracy
+  Epoch: 10 | Epoch Time: 0m 0s
+  	Train Loss: 1.624 | Train Acc: 27.33%
+  	 Val. Loss: 1.620 |  Val. Acc: 24.50%
+  improved the test loss and accuracy as well
+  Test Loss: 1.649 | Test Acc: 29.80%
+  why is that?
+
+why does packedsequence an rnn improve its accuracy?
+gemini answer:
+Packed sequences, while not directly improving the accuracy of an RNN, offer several advantages that can indirectly contribute to better performance:
+
+1. Efficient Memory Usage:
+
+RNNs typically struggle with variable-length sequences due to the need for padding shorter sequences to a fixed length. This padding leads to wasted memory and computation on irrelevant information.
+Packed sequences address this issue by storing only the actual elements of each sequence, significantly reducing memory footprint. This allows for training on larger datasets or longer sequences without memory constraints.
+2. Faster Training:
+
+By focusing on the non-padded elements, packed sequences enable faster training compared to padding. This is because the RNN only processes relevant information, reducing unnecessary computations on padding values.
+3. Compatibility with Masking:
+
+Masking techniques allow the model to explicitly ignore padded elements during training, focusing only on the actual sequence data.
+Packed sequences naturally integrate with masking, as the model already processes only the non-padded elements. This ensures the model learns from the relevant information and avoids being influenced by padding.
+Improved accuracy is a consequence of these benefits:
+
+Efficient training: Faster training allows for more epochs or exploration of different hyperparameters, potentially leading to a better model fit and improved accuracy.
+Larger datasets: Reduced memory usage enables training on larger and more diverse datasets, which can provide the model with more information and improve its ability to generalize to unseen data.
+Focus on relevant information: By avoiding processing padding and using masking with packed sequences, the model focuses on learning from the actual data, potentially leading to more accurate predictions.
+However, it's important to note that packed sequences themselves don't directly improve accuracy. They address limitations related to variable-length sequences, enabling more efficient training and potentially leading to better accuracy as a result.
+
+Here are some additional points to consider:
+
+The impact of packed sequences on accuracy can vary depending on the specific task, dataset, and model architecture.
+Other factors like hyperparameter tuning, data preprocessing, and choice of activation functions also play a crucial role in achieving optimal accuracy.
+Overall, packed sequences are a valuable technique for handling variable-length sequences in RNNs. They offer significant advantages in terms of memory efficiency, training speed, and compatibility with masking, which can indirectly contribute to improved accuracy through more efficient training and better utilization of relevant information.
