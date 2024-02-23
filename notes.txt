@@ -73,3 +73,13 @@ Here are some additional points to consider:
 The impact of packed sequences on accuracy can vary depending on the specific task, dataset, and model architecture.
 Other factors like hyperparameter tuning, data preprocessing, and choice of activation functions also play a crucial role in achieving optimal accuracy.
 Overall, packed sequences are a valuable technique for handling variable-length sequences in RNNs. They offer significant advantages in terms of memory efficiency, training speed, and compatibility with masking, which can indirectly contribute to improved accuracy through more efficient training and better utilization of relevant information.
+
+
+optimisers
+momentum
+nesterov accelerated gradient
+adagrad
+adadelta
+rmsprop
+adam 
+adam extensions
