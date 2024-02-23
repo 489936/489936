@@ -83,3 +83,5 @@ adadelta
 rmsprop
 adam 
 adam extensions
+
+make a thing where we can do a grid search to systematically find the best hyper parametrs
