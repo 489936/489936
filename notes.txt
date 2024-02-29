@@ -1,5 +1,8 @@
 today:
-do the NLP project 
+  assignment 1 do the looping sesarching thing
+
+NLP project:
+  do the intro and NLP tasks
 
 survey paper:
 do the survey paper things
@@ -9,7 +12,6 @@ later:
 research integrity course
 
 ask prof:
-  cncl lab desk
   ask about the cncl laptop, bag and headset
 
 thoughts:
