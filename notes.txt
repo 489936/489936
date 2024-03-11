@@ -1,7 +1,13 @@
 today:
   assignment 1 do the looping sesarching thing
-do hw for numerical algo
+do hw for numerical algo chapter 4
 research integrity course
+create a a table to keep track of progress for modules/courses
+
+pre-read notes+ textbook chapters
+attend lectures
+do hw 
+review notes 
 
 NLP project:
 
