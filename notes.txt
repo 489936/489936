@@ -1,5 +1,6 @@
 today:
   assignment 1 do the looping sesarching thing
+do hw for numerical algo
 
 NLP project:
   do the intro and NLP tasks
@@ -24,24 +25,6 @@ end of month update Kevin
 ask Dusit for updates to desk
 VPN for Bosch Laptop ask IT dept
 
-Per week:
-numerical algo:
-[] print and read the notes
-[] read relevant textbook chapters 
-[] attend lecture
-[] do the hw 
-
-statistical methods:
-[] print and read the notes
-[] read relevant textbook chapters 
-[] attend lecture
-[] do the hw 
-
-DL for NLP:
-[] print and read the notes
-[] read relevant textbook chapters 
-[] attend lecture
-[] do the hw 
 https://github.com/ntu-nail/CE7455
 
 assignment 1: 
