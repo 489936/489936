@@ -1,19 +1,13 @@
 today:
   assignment 1 do the looping sesarching thing
 do hw for numerical algo
+research integrity course
 
 NLP project:
-  do the intro and NLP tasks
 
 survey paper:
 do the survey paper things
   read more papers
-
-later:
-research integrity course
-
-ask prof:
-  ask about the cncl laptop, bag and headset
 
 thoughts:
 ask dusit and bryan what can he contribute to my phd
@@ -22,8 +16,8 @@ ask dusit and bryan what can he contribute to my phd
 
 Bosch:
 end of month update Kevin
-ask Dusit for updates to desk
 VPN for Bosch Laptop ask IT dept
+
 
 https://github.com/ntu-nail/CE7455
 
@@ -73,6 +67,3 @@ adagrad
 adadelta
 rmsprop
 adam 
-adam extensions
-
-make a thing where we can do a grid search to systematically find the best hyper parametrs
