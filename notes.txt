@@ -4,7 +4,8 @@ do hw for numerical algo chapter 4
 research integrity course
 create a a table to keep track of progress for modules/courses
 
-pre-read notes+ textbook chapters
+pre-read notes
+textbook chapters
 attend lectures
 do hw 
 review notes 
@@ -22,14 +23,11 @@ ask dusit and bryan what can he contribute to my phd
 
 Bosch:
 end of month update Kevin
-VPN for Bosch Laptop
 for GPU, Kevin say that he is still actively using the GPU, 
   he thinks that Mr Toh wants to keep the GPU on an NTU student.
   so he is going to let Mr Toh know that I will be loaning the GPU.
   Kevin let me know about this situation and asked me if I can sign it out for him.
   I agreed as I can potentially make use of the GPU in the future.
-
-https://github.com/ntu-nail/CE7455
 
 assignment 1:
 
@@ -40,3 +38,45 @@ adagrad
 adadelta
 rmsprop
 adam 
+
+
+								notes	textbook	lectures	homework 	review 								
+1		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+2		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+3		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+4		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+5		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+6		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+7		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+8		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+9		n.algo		|	[]		[]				[]				[]				[]	
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+10	n.algo		|	[]		[]				[]				[]				[]		
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+11	n.algo		|	[]		[]				[]				[]				[]		
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+12	n.algo		|	[]		[]				[]				[]				[]		
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
+13	n.algo		|	[]		[]				[]				[]				[]		
+		stats			|	[]		[]				[]				[]				[]
+		dl4nlp		|	[]		[]				[]				[]				[]	
