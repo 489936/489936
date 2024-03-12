@@ -22,8 +22,12 @@ ask dusit and bryan what can he contribute to my phd
 
 Bosch:
 end of month update Kevin
-VPN for Bosch Laptop ask IT dept
-
+VPN for Bosch Laptop
+for GPU, Kevin say that he is still actively using the GPU, 
+  he thinks that Mr Toh wants to keep the GPU on an NTU student.
+  so he is going to let Mr Toh know that I will be loaning the GPU.
+  Kevin let me know about this situation and asked me if I can sign it out for him.
+  I agreed as I can potentially make use of the GPU in the future.
 
 https://github.com/ntu-nail/CE7455
 
