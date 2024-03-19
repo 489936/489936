@@ -2,7 +2,8 @@ today:
   assignment 1 do the looping sesarching thing
 do hw for numerical algo chapter 4
 research integrity course
-create a a table to keep track of progress for modules/courses
+for remote desktop https://windowsreport.com/vpn-remote-desktop-windows-10/
+
 
 pre-read notes
 textbook chapters
@@ -31,13 +32,6 @@ for GPU, Kevin say that he is still actively using the GPU,
 
 assignment 1:
 
-optimisers
-momentum
-nesterov accelerated gradient
-adagrad
-adadelta
-rmsprop
-adam 
 
 
 		notes	textbook	lectures	homework 	review 			
